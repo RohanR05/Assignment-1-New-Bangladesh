@@ -1,0 +1,182 @@
+body{
+margin: 0 7%;
+}
+/* main */
+/* nav */
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.ban{
+font-size: 32px;
+font-weight: bold;
+font-family:sans-serif;
+}
+.btn-1 button{
+color: #006a50;
+background-color: white;
+border-radius:8px ;
+width: 116px;
+height: 52px;
+border: 1px solid #006a50;
+font-size: 18px;
+font-weight:500;
+}
+/* banner */
+.banner{
+background-color: #c6e4d6;
+border-radius: 24px;
+padding: 70px 70px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.banner-content{
+
+}
+.mini-title{
+font-size:24px;
+color:#0e0e0e;
+opacity: .5;
+}
+.bold-title{
+font-size: 56px;
+font-weight: 600;
+margin-top: 16px;
+}
+.btn-2{
+font-size:18px;
+font-weight: 500;
+background-color: #006a50;
+border-radius: 8px;
+border: none;
+padding: 17px 34px ;
+margin-top: 24px;
+color: white;
+}
+/* main */
+/* section-1 */
+.section-1{
+margin-top:80px;
+}
+.title-1{
+font-size:40px;
+font-weight: bold;
+}
+.des-1{
+font-size: 16px;
+opacity: .7;
+line-height: 24px;
+margin-top: 24px;
+}
+.style-des{
+display: flex;
+gap: 24px;
+margin-top: 32px;
+justify-content:space-between;
+}
+.box{
+padding: 32px;
+border-radius: 16px;
+max-width:300px;
+}
+.des-3{
+font-size: 20px;
+font-weight: bold;
+opacity: 0.8;
+margin-top: 24px;
+}
+.des-4{
+font-size: 16px;
+line-height: 24px;
+opacity: .7;
+margin-top: 12px;
+}
+.common-btn{
+font-size: 16px;
+color: white;
+border: none;
+border-radius: 8px;
+padding: 11px 21px;
+margin-top: 24px;
+}
+.box-1{
+background-color:#5490F533;
+}
+.btn-3-1{
+background-color:#5490f5;
+}
+.box-2{
+background-color: #c6e4d6;
+}
+.btn-3-2{
+background-color:#09a15c ;
+}
+.box-3{
+background-color: #F7EBCF;
+}
+.btn-3-3{
+background-color:#ffc239;
+}
+/* section-2 */
+.section-2{
+margin-top: 80px;
+}
+.des-5{
+font-size: 40px;
+font-weight: bold;
+}
+.des-6{
+font-size: 16px;
+opacity: .7;
+line-height: 24px;
+margin-top: 24px;
+}
+.news-box{
+margin-top: 32px;
+display: flex;
+padding: 48px;
+border-radius: 24px;
+box-shadow: 0px 0px 50px rgb(173, 173, 173);
+gap: 32px;
+
+}
+.earth{
+border-radius: 24px;
+}
+.news-content{
+
+}
+.title-2{
+font-size: 32px;
+font-weight: bold;
+}
+.aljajira{
+margin-top: 12px;
+}
+.des-7{
+margin: 12px;
+font-size: 16px;
+opacity: .7;
+line-height: 24px;
+}
+.des-8{
+margin-top: 12px;
+font-size: 16px;
+opacity: .7;
+line-height: 24px;
+}
+.btn-4{
+font-size: 18px;
+padding: 13px 26px;
+border-radius: 8px;
+border: none;
+background-color: #006a50;
+color: white;
+margin-top: 32px;
+}
+.reverse{
+display: flex;
+flex-direction: row-reverse;
+}
