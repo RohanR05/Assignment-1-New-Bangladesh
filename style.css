@@ -60,6 +60,37 @@ margin-top: 24px;
 color: white;
 }
 /* main */
+/* extra section */
+.section-extra{
+margin-top: 80px;
+}
+.des-18{
+font-size: 40px;
+font-weight:bold;
+}
+.des-boxs{
+display: flex;
+justify-content: space-between;
+gap:24px;
+margin-top: 32px;
+}
+.mini-box{
+background-color: white;
+border-radius: 16px;
+padding:24px ;
+}
+.des-19{
+margin-top: 24px;
+font-size: 20px;
+font-weight:bold;
+opacity: .8;
+}
+.des-20{
+margin-top: 12px;
+line-height: 24px;
+opacity: .7;
+}
+
 /* section-1 */
 .section-1{
 margin-top:80px;
